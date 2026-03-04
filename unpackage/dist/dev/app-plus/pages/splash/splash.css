@@ -1,0 +1,13 @@
+
+.container[data-v-b5d3b004] {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.splash-image[data-v-b5d3b004] {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
